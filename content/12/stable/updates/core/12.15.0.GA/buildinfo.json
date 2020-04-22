@@ -1,0 +1,31 @@
+{
+    "timestamp" : 1587023249214,
+    "revision" : {
+        "HEAD" : "6b395b6c6274dc08cce75cd5171f1387e6f32a24",
+        "currentBranch" : "HEAD",
+        "knownReferences" : [{
+            "name" : "origin",
+            "url" : "git@github.com:jbdevstudio/jbdevstudio-product.git",
+            "ref" : "master"
+        }]
+    },
+    "properties" : {
+        "TARGET_PLATFORM_VERSION_MAXIMUM" : "null",
+        "java.version" : "1.8.0_242",
+        "user.dir" : "/mnt/hudson_workspace/workspace/devstudio.product_master",
+        "os.arch" : "amd64",
+        "RELEASE" : "null",
+        "BUILD_ALIAS" : "null",
+        "JOB_NAME" : "devstudio.product_master",
+        "os.version" : "3.10.0-1062.el7.x86_64",
+        "BUILD_NUMBER" : "6249",
+        "TARGET_PLATFORM_VERSION" : "null",
+        "NODE_NAME" : "null",
+        "HOSTNAME" : "rhel7-devstudio-releng-163250",
+        "java.vendor" : "Oracle Corporation",
+        "os.name" : "Linux",
+        "ZIPSUFFIX" : "null",
+        "WORKSPACE" : "/mnt/hudson_workspace/workspace/devstudio.product_master"
+    },
+    "upstream" : {"http://download.jboss.org/jbosstools/photon/snapshots/updates/core/master/" : "Build info file not accessible: Parser error"}
+}
