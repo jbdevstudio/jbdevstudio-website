@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?><?compositeArtifactRepository version='1.0.0'?>
 <repository name='static/12/stable/updates/fuse-extras' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
-<properties size='2'><property name='p2.timestamp' value='1618577773000'/><property name='p2.compressed' value='true'/></properties>
+<properties size='2'><property name='p2.timestamp' value='1625839165000'/><property name='p2.compressed' value='true'/></properties>
 <children size='1'>
-<child location='/static/12/stable/updates/fuse-extras/12.19.0.GA/'/>
+<child location='/static/12/stable/updates/fuse-extras/12.19.1.GA/'/>
 </children>
 </repository>
 
